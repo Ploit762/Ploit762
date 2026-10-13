@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello, My name is Neo
+Brief Introduction
 
-<!--
-**Ploit762/Ploit762** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a currently a IT specialist with a profound interest in technology and a dedication to solving complex problems.
 
-Here are some ideas to get you started:
+TryHackMe Account:
+"https://tryhackme.com/p/Ploit</a>"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objective
+
+My journey and schooling in computer science as a teenager led me to develop a passion for cybersecurity. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+## Main Tools I use daily
+- Kali Linux - Used to practice Pen tech techniques like port scanning, Prassword cracking, and learning how to pivot efficiently within a network once it is hacked.
+
+- CMD (Command Prompt)- Used to interact with the Operating system, great way to use as a Command and Control tool when used effectively.
+
+- PowerShell- Scripting language platform that I use to run commands and perform taks as admin to mange files and other processes on the Operating system. Another great way to use as a Command and Control tool when used effectively.
+  
+- Active Directory (AD) - Used to view users, accounts, control security permissions, and manage network devices.
+
+## Disclaimer
+*<p align="center"> The information and practices that is being shown on this profile page is for education purposes only. The user of this profile page is not liable for any errors, damages, or misuse of the information that is provided on this page. </p>*
+
